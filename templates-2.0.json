@@ -1046,7 +1046,7 @@
 			"platform":"linux",
 			"logo":"https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/intel.png",
 			"repository":{
-				"url":"https://github.com/portainer/templates",
+				"url":"https://github.com/andres-portainer/templates",
 				"stackfile":"stacks/fdo/docker-stack.yml"
 			},
 			"env":[
